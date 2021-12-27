@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBGoJ9Ceo2VwC4m1uPpbt9FrH65ZPyEmtY",
-    authDomain: "crimsons-it.firebaseapp.com",
-    projectId: "crimsons-it",
-    storageBucket: "crimsons-it.appspot.com",
-    messagingSenderId: "763860173133",
-    appId: "1:763860173133:web:ceb20e05416ceff7fe7704"
+    apiKey: "AIzaSyC4s7K-N26vHZqJ6l3da9mjP-2cwcz1A4c",
+    authDomain: "boostup-ui-ss.firebaseapp.com",
+    projectId: "boostup-ui-ss",
+    storageBucket: "boostup-ui-ss.appspot.com",
+    messagingSenderId: "645811412741",
+    appId: "1:645811412741:web:c49ce13623d96c0762e16c"
 };
 export default firebaseConfig;
 
